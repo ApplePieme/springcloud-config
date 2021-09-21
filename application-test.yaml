@@ -1,2 +1,2 @@
 config:
-  profile: test
+  info: "springcloud-config/application-test.yaml version=1"

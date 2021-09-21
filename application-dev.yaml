@@ -1,2 +1,2 @@
 config:
-  profile: dev
+  info: "springcloud-config/application-dev.yaml version=1"

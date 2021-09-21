@@ -1,2 +1,2 @@
 config:
-  profile: prod
+  info: "springcloud-config/application-prod.yaml version=1"
